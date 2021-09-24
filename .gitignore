@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 data/
-10epochs_loss1_58/
+# 10epochs_loss1_58/
 # Distribution / packaging
 .Python
 build/
