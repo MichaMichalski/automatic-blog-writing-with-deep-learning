@@ -1,4 +1,4 @@
-# Spiced Academy - Final Project
+# Automatic Blog writing with Deep Learning
 ## How AI can make money online
 
 ![How AI can make money online](https://github.com/MichaMichalski/spiced-final-project/raw/main/pics/How_to_Make_Money_online.png "How AI can make money online")
@@ -51,3 +51,5 @@ In order to achieve quality, it makes sense to take a look at companies with sol
 In order to create high quality texts it makes sense to take a look at the approches of such company and after figuring out how they work, make some changes in order to accomplish your goals.
 
 Feel free to check out the presentation `My_final_project_at_spiced.pdf`.
+
+I took this project as my final presentation for my graduation at [Spiced Academy](https://www.spiced-academy.com/). Thanks for the great learning experience and the outstanding support of the amazing teachers!
